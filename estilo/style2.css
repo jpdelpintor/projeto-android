@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+
+div#caixa1 {
+    background-color: red;
+    
+    height: 300px;
+    width: 1500px;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 15px;
+    position: relative;
+  
+    
+}
+
+div#caixa2 {
+    background-color: blue;
+    
+    height: 50px;
+    width: 50px;
+    padding: 0px;
+    margin: 0px;
+
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    height: 90%;
+    width: 90%;
+    
+    
+
+}
